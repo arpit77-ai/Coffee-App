@@ -1,6 +1,10 @@
 # COFFEE-APP
 
 
+A simple Python console-based Coffee Shop Ordering System that lets users browse a menu, add coffee items to their order, view their cart, and checkout. It demonstrates basic Object-Oriented Programming concepts using classes, methods, and user input handling.
+
+
+
 # Coffee Shop Ordering System
 
 A simple and interactive **Python console application** that allows users to browse a coffee menu, add items to their order, view their cart, and proceed to checkout.
